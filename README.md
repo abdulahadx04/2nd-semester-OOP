@@ -1,2 +1,1 @@
-# 2nd-semester-OOP
-OOP Final Project
+# Hostel Management System
